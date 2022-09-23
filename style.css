@@ -1,0 +1,15 @@
+.item {
+    font-size: 4em;
+    background-color: pink;
+    height: 400px;
+}
+.item:nth-child(even) {
+    background-color: aqua;
+}
+.owl-dots {
+    color: red;
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    border-radius: 50%;
+}
