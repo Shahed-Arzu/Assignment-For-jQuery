@@ -1,8 +1,5 @@
-.item {
-    font-size: 4em;
-    background-color: pink;
-    
+.item img {
+    height: 850px;
+    width: auto;
 }
-.item:nth-child(even) {
-    background-color: aqua;
-}
+
